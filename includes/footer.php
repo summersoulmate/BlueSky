@@ -31,7 +31,7 @@
                 <p>Delta Air Hangar, General Aviation Area, Manila Domestic Airport, Pasay City, Philippines</p>
             </div>
             <div class="grid_12" id="copyright">
-            	<b class="block">Copyright &copy; 2011. EMS International. All rights reserved.</b> <a href="#">Privacy</a> | <a href="#">Disclaimer</a> | <a href="#">Site-map</a>
+            	<b class="block">Copyright &copy; 2012. EMS International. All rights reserved.</b> <a href="#">Privacy</a> | <a href="#">Disclaimer</a> | <a href="#">Site-map</a>
             </div>
         </div>
     </div>
